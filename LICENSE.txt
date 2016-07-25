@@ -28,5 +28,5 @@ Author: tjado <https://github.com/tejado>
 Modifications by: beeedy <https://github.com/beeedy>
 Modifications by: dosaki <https://github.com/dosaki>
 Modifications by: TomTheBotter <https://github.com/TomTheBotter>
-Modifications by: 2016 j-e-k <https://github.com/j-e-k>
+Modifications by: j-e-k <https://github.com/j-e-k>
 Modifications by: esfomeado <https://github.com/esfomeado>
